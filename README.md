@@ -1,5 +1,6 @@
 # Github-Final-Project
 My Final for Full Stack Course
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
